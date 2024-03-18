@@ -11,4 +11,4 @@ Instruction to run database: Also include in the video
 - select 2 to add a new student or
 - select 3 to update email of student or 
 - select 4 to delete a student or
-- select 0 to close application or
+- select 0 to close application
